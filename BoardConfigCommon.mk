@@ -148,6 +148,10 @@ TARGET_PRODUCT_PROP += $(COMMON_PATH)/product.prop
 
 
 # Properties
+TARGET_PRODUCT_PROP += $(COMMON_PATH)/product.prop
+
+
+# Properties
 BOARD_PROPERTY_OVERRIDES_SPLIT_ENABLED := true
 
 # SELinux
